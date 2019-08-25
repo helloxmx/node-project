@@ -1,0 +1,14 @@
+/* 改变主题色变量 */
+$--color-primary: #FF739E;
+
+/* 改变 icon 字体路径变量，必需 */
+$--font-path: '../node_modules/element-ui/lib/theme-chalk/fonts';
+
+@import "../node_modules/element-ui/packages/theme-chalk/src/index";
+.el-table thead{
+    color:#4a4a4a;
+}
+.el-table__body{
+    color: #4a4a4a;
+    // font-weight: lighter;
+}

@@ -1,0 +1,11 @@
+export const STORE_TK = 'STORE_TK'//储存token
+export const STORE_BUSINESS = 'STORE_BUSINESS'//储存商户类型
+export const STORE_USERNAME = 'STORE_USERNAME'//储存用户名称
+export const STORE_USERAVATOR = 'STORE_USERAVATOR'//储存用户头像
+export const CHANGE_TITLE = 'CHANGE_TITLE'//跳转到页面
+export const CHANGE_CHILDTITLE = 'CHANGE_CHILDTITLE'//跳转子到页面
+export const STORE_EDITOR_CONTENT = 'STORE_EDITOR_CONTENT'//储存富文本编辑器的内容
+export const STORE_EDITOR_IMGS = 'STORE_EDITOR_IMGS'//富文本编辑器图片集合
+export const LOGO_LINK = 'LOGO_LINK'//添加商户-上传logo地址
+export const LICENSE_LINK = 'LICENSE_LINK'//添加商户-上传营业执照地址
+export const COVER_LINK = 'COVER_LINK'//添加商户-上传封面地址
